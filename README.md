@@ -26,5 +26,3 @@ Jupyter Notebook
 Fatima Khaliq
 BS Information Technology (BS IT)
 CodeAlpha Machine Learning Intern
-https://github.com/fatimakhaliq
-https://www.linkedin.com/in/fatima-khaliq-81678839a?utm_source=share_via&utm_content=profile&utm_medium=member_ios
