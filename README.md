@@ -1,27 +1,30 @@
-# Handwritten Character Recognition
+# CodeAlpha Machine Learning Tasks
 
-## Project Description
-This project recognizes handwritten digits using Machine Learning. The model is trained on the Scikit-learn Digits dataset using the K-Nearest Neighbors (KNN) algorithm.
+This repository contains my Machine Learning internship tasks completed for CodeAlpha.
 
-## Features
-- Handwritten digit recognition
-- KNN Classifier
-- Data visualization
-- Model accuracy evaluation
-- Confusion Matrix
-- Classification Report
+## Task 1: Credit Scoring Model
+Algorithm: K-Nearest Neighbors (KNN)
+Dataset: German Credit Data
+Objective: Predict customer creditworthiness.
+Evaluation: Accuracy, Confusion Matrix, Classification Report.
+
+## Task 3: Handwritten Character Recognition
+Algorithm: K-Nearest Neighbors (KNN)
+Dataset: Scikit-learn Digits Dataset
+Objective: Recognize handwritten digits.
+Evaluation: Accuracy, Confusion Matrix, Classification Report.
 
 ## Technologies Used
-- Python
-- NumPy
-- Matplotlib
-- Scikit-learn
+Python
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Jupyter Notebook
 
-## Dataset
-Scikit-learn Digits Dataset
-
-## Model
-K-Nearest Neighbors (KNN)
-
-## Accuracy
-98.61%
+## Author
+Fatima Khaliq
+BS Information Technology (BS IT)
+CodeAlpha Machine Learning Intern
+https://github.com/fatimakhaliq
+https://www.linkedin.com/in/fatima-khaliq-81678839a?utm_source=share_via&utm_content=profile&utm_medium=member_ios
